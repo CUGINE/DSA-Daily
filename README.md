@@ -1,17 +1,18 @@
 # 🚀 DSA Daily
 
-Welcome to my daily DSA journey!
+Daily Java solutions for Data Structures & Algorithms.
 
-## Language
+## 👨‍💻 Language
 - Java
 
-## Goal
+## 🎯 Goal
 - Solve at least one DSA problem every day.
-- Improve problem-solving skills.
+- Strengthen problem-solving skills.
 - Prepare for coding interviews.
 
-## Progress
+## 📈 Progress
 
-| Day | Problem | Topic | Difficulty |
-|-----|---------|-------|------------|
-| 1 | Fibonacci (LC 509) | Dynamic Programming - Memoization | Easy |
+| Day | LeetCode | Problem | Topic |
+|-----|----------|---------|-------|
+| 1 | LC 509 | Fibonacci Number | Dynamic Programming (Memoization) |
+| 2 | LC 1137 | N-th Tribonacci Number | Dynamic Programming (Memoization) |
