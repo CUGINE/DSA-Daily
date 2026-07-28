@@ -26,6 +26,7 @@ The goal is to stay consistent by solving problems daily while preparing for cod
 | 2 | LC 1137 | N-th Tribonacci Number | Dynamic Programming |
 | 3 | LC 51 | N-Queens | Backtracking |
 | 4 | LC 52 | N-Queens II | Backtracking |
+| 5 | LC 322 | Coin Change | Dynamic Programming |
 
 ---
 
@@ -36,7 +37,8 @@ DSA-Daily/
 │
 ├── DynamicProgramming/
 │   ├── Fibonacci.java
-│   └── Tribonacci.java
+│   ├── Tribonacci.java
+│   └── Coin.java
 │
 ├── Backtracking/
 │   ├── NQueens.java
@@ -49,7 +51,7 @@ DSA-Daily/
 
 ## 📈 Stats
 
-- ✅ Total Problems Solved: **4**
+- ✅ Total Problems Solved: **5**
 - 🔥 Current Streak: **3 Days**
 - 💻 Language: **Java**
 
