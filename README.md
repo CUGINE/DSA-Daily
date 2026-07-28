@@ -1,18 +1,62 @@
 # 🚀 DSA Daily
 
-Daily Java solutions for Data Structures & Algorithms.
+A repository dedicated to solving **Data Structures & Algorithms** problems in **Java**.  
+The goal is to stay consistent by solving problems daily while preparing for coding interviews and improving problem-solving skills.
+
+---
 
 ## 👨‍💻 Language
-- Java
+- Java ☕
 
-## 🎯 Goal
-- Solve at least one DSA problem every day.
-- Strengthen problem-solving skills.
-- Prepare for coding interviews.
+---
 
-## 📈 Progress
+## 🎯 Goals
+- 📌 Solve at least one DSA problem every day.
+- 🧠 Master Data Structures & Algorithms.
+- 💼 Prepare for Software Engineering interviews.
+- 📈 Build consistency through daily GitHub commits.
 
-| Day | LeetCode | Problem | Topic |
-|-----|----------|---------|-------|
-| 1 | LC 509 | Fibonacci Number | Dynamic Programming (Memoization) |
-| 2 | LC 1137 | N-th Tribonacci Number | Dynamic Programming (Memoization) |
+---
+
+## 📊 Progress
+
+| # | LeetCode | Problem | Topic |
+|---|----------|---------|-------|
+| 1 | LC 509 | Fibonacci Number | Dynamic Programming |
+| 2 | LC 1137 | N-th Tribonacci Number | Dynamic Programming |
+| 3 | LC 51 | N-Queens | Backtracking |
+| 4 | LC 52 | N-Queens II | Backtracking |
+
+---
+
+## 📂 Repository Structure
+
+```text
+DSA-Daily/
+│
+├── DynamicProgramming/
+│   ├── Fibonacci.java
+│   └── Tribonacci.java
+│
+├── Backtracking/
+│   ├── NQueens.java
+│   └── NQueensII.java
+│
+└── README.md
+```
+
+---
+
+## 📈 Stats
+
+- ✅ Total Problems Solved: **4**
+- 🔥 Current Streak: **3 Days**
+- 💻 Language: **Java**
+
+---
+
+## 🌟 Why this Repository?
+
+This repository serves as my personal DSA journal where I consistently solve coding problems, revise algorithms, and track my progress throughout my interview preparation journey.
+
+⭐ If you find this repository helpful, feel free to star it!
