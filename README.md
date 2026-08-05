@@ -30,6 +30,9 @@ The goal is to stay consistent by solving problems daily while preparing for cod
 | 4 | LC 52    | N-Queens II            | Backtracking        |
 | 5 | LC 322   | Coin Change            | Dynamic Programming |
 | 6 | LC 70    | Climbing Stairs        | Dynamic Programming |
+| 7 | -----    | FROG JUMP 1 OR 2       | Dynamic Programming |
+| 8 | -----    | FROG JUMPII-K          | Dynamic Programming |
+| 9 | LC 198   | House Robber           | Dynamic Programming |
 
 ---
 
