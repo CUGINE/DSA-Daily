@@ -33,6 +33,8 @@ The goal is to stay consistent by solving problems daily while preparing for cod
 | 7 | -----    | FROG JUMP 1 OR 2       | Dynamic Programming |
 | 8 | -----    | FROG JUMPII-K          | Dynamic Programming |
 | 9 | LC 198   | House Robber           | Dynamic Programming |
+| 10 | LC 1143 |   LCS                  | Dynamic Programming |
+| 11 | (GFG)   |   LCS(substring)       | Dynamic Programming |
 
 ---
 
