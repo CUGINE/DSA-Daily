@@ -36,6 +36,8 @@ The goal is to stay consistent by solving problems daily while preparing for cod
 | 10 | LC 1143  | Longest Common Subsequence | Dynamic Programming |
 | 11 | GFG      | Longest Common Substring | Dynamic Programming |
 | 12 | LC 516   | Longest Palindromic Subsequence | Dynamic Programming |
+| 13 | LC 1312  | Minimum Insertions to Make a String Palindrome | Dynamic Programming |
+| 14 | LC 583   | Delete Operation for Two Strings | Dynamic Programming |
 
 ---
 
@@ -54,56 +56,12 @@ DSA-Daily/
 │   ├── HouseRobber.java
 │   ├── LongestCommonSubsequence.java
 │   ├── LongestCommonSubstring.java
-│   └── LongestPalindromicSubsequence.java
+│   ├── LongestPalindromicSubsequence.java
+│   ├── MinimumInsertions.java
+│   └── DeleteOperation.java
 │
 ├── Backtracking/
 │   ├── NQueens.java
 │   └── NQueensII.java
 │
 └── README.md
-```
-
----
-
-## 📈 Stats
-
-- ✅ Total Problems Solved: **12**
-- 🔥 Current Streak: **5 Days**
-- 💻 Language: **Java**
-- 🧠 Main Focus: **Dynamic Programming & Backtracking**
-
----
-
-## 🧩 Topics Covered
-
-### Dynamic Programming
-- Fibonacci
-- Tribonacci
-- Climbing Stairs
-- Frog Jump
-- Frog Jump with K Distances
-- Coin Change
-- House Robber
-- Longest Common Subsequence
-- Longest Common Substring
-- Longest Palindromic Subsequence
-
-### Backtracking
-- N-Queens
-- N-Queens II
-
----
-
-## 🌟 Why this Repository?
-
-This repository serves as my personal **DSA journal**, where I consistently solve coding problems, revise algorithms, and track my progress throughout my interview preparation journey.
-
-The focus is not just on solving problems, but on understanding different approaches such as:
-
-- 🔄 Recursion
-- 🧠 Memoization
-- 📊 Dynamic Programming
-- 🔙 Backtracking
-- ⏱️ Time & Space Complexity
-
-⭐ If you find this repository helpful, feel free to star it!
