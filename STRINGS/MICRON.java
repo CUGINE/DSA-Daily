@@ -7,6 +7,7 @@ public class MICRON {
       String str= sc.nextLine();
 
       System.out.println(S(str)) ;
+      sc.close();
     }
 
     static String S(String str){
@@ -16,6 +17,7 @@ public class MICRON {
 
       res=str;
       return res;
+      
     }
 
 
